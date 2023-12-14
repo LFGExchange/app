@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120x" src="https://ibb.co/nw6Lzhx" />
+  <img height="120x" src="https://i.ibb.co/grmRzsk/1-removebg-preview.png" />
 
   <h1 style="margin-top:20px;">Drift Protocol v2</h1>
 
