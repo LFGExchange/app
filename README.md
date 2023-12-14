@@ -1,18 +1,18 @@
 <div align="center">
   <img height="120x" src="https://i.ibb.co/grmRzsk/1-removebg-preview.png" />
 
-  <h1 style="margin-top:20px;">Drift Protocol v2</h1>
+  <h1 style="margin-top:20px;">LPG Protocol v2</h1>
 
   <p>
-    <a href="https://docs.drift.trade/sdk-documentation"><img alt="Docs" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://docs.LPG.trade/sdk-documentation"><img alt="Docs" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
     <a href="https://discord.com/channels/849494028176588802/878700556904980500"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/project-serum/anchor?color=blueviolet" /></a>
   </p>
 </div>
 
-# Drift Protocol v2
+# LPG Protocol v2
 
-This repository provides open source access to Drift V2's Typescript SDK, Solana Programs, and more.
+This repository provides open source access to LPG V2's Typescript SDK, Solana Programs, and more.
 
 # SDK Guide
 
@@ -20,7 +20,7 @@ SDK docs can be found [here](./sdk/README.md)
 
 # Example Bot Implementations
 
-Example bots (makers, liquidators, fillers, etc) can be found [here](https://github.com/drift-labs/keeper-bots-v2)
+Example bots (makers, liquidators, fillers, etc) can be found [here](https://github.com/LPG-labs/keeper-bots-v2)
 
 # Building Locally
 
