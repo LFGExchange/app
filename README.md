@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="120x" src="https://i.ibb.co/grmRzsk/1-removebg-preview.png" />
-
+  <img height="120x" src="https://i.ibb.co/7pcDhy2/IMG-7064-transformed.jpg" />
   <h1 style="margin-top:20px;">LPG Protocol v2</h1>
 
   <p>
