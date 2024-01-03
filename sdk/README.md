@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120x" src="https://i.ibb.co/grmRzsk/1-removebg-preview.png" />
+  <img height="120x" src="https://i.ibb.co/6Dn2D1s/2r.png" />
 
   <h1 style="margin-top:20px;">LFG Protocol v2</h1>
 
