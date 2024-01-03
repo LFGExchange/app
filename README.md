@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="120x" src="https://i.ibb.co/7pcDhy2/IMG-7064-transformed.jpg" />
-  <h1 style="margin-top:20px;">LPG Protocol v2</h1>
+  <img height="120x" src="https://i.ibb.co/6Dn2D1s/2r.png" />
+  <h1 style="margin-top:20px;">LFG Protocol v2</h1>
 
   <p>
     <a href="https://docs.LPG.trade/sdk-documentation"><img alt="Docs" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
