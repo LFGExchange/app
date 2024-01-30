@@ -141,7 +141,7 @@ const main = async () => {
 	);
 
 	// Set up the LFG Client
-	const LFGPublicKey = new PublicKey(sdkConfig.DRIFT_PROGRAM_ID);
+	const LFGPublicKey = new PublicKey(sdkConfig.LFG_PROGRAM_ID);
 	const bulkAccountLoader = new BulkAccountLoader(
 		connection,
 		'confirmed',
